@@ -246,15 +246,10 @@ $newQR = $qrPay->build();
 
 // Output
 /*
-00020101021238530010A0000007270123000697041601092576788590208QRIBFTTA530370454069999995802VN62140810Cam on nhe6304E786
+00020101021238550010A000000727012500069704220111887876271330208QRIBFTTA53037045405100005802VN62580854Cam on nhe - thu vien tao ma thanh toan QRPay tren PHP6304EC87
 */
 ```
-
-| Bank | Text |
-|----------------|----------|
-| **MB Bank** | `Cam on nhe - thu vien tao ma thanh toan QRPay tren PHP` |
 ![alt text](qr.png)
-
 
 ---
 
