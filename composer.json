@@ -1,0 +1,14 @@
+{
+  "name": "chainplatform/pay",
+  "description": "Thư viện PHP xử lý VietQR",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "ChainPlatform\\Pay\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
